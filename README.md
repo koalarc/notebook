@@ -1,2 +1,2 @@
 # notebook
-a java based online notebook, for practice and application
+A java based online notebook, for practice and application
